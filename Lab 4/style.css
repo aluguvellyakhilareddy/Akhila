@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 200px;
+    text-align: center;
+    
+}
+
+input {
+    width: 97%;
+    border: 0px;
+    outline: none;
+    text-align: center;
+}
